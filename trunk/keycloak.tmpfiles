@@ -1,0 +1,5 @@
+z /usr/share/java/keycloak/tmp - keycloak keycloak -
+z /usr/share/java/keycloak/data - keycloak keycloak -
+z /usr/share/java/keycloak/log - keycloak keycloak -
+Z /usr/share/java/keycloak/conf - keycloak keycloak -
+Z /usr/share/java/keycloak/deployments - keycloak keycloak -
